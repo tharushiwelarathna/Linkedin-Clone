@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "262887991890",
+    "project_id": "linkedin-clone-firebase-tharu",
+    "storage_bucket": "linkedin-clone-firebase-tharu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262887991890:android:2ec62d98bbfd15dbca0d8b",
+        "android_client_info": {
+          "package_name": "com.linkedin_clone_tharu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262887991890-hd6fc9qb9gqlkijtat0jeekh4ad6rk86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.linkedin_clone_tharu",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "262887991890-ubl1v7falghills82jntrrvbaaria54l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzNshJqDRpYaYGq3a-XffkOpak7GAswt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262887991890-ubl1v7falghills82jntrrvbaaria54l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
